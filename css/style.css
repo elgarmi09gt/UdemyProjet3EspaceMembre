@@ -1,0 +1,32 @@
+h1{
+  color: #9828;
+}
+
+header{
+  background-color : #2898e8;
+}
+
+a{
+  text-decoration: none;
+  color: #2898e8;
+}
+
+input[type="text"],[type="email"],[type="password"]{
+  border: 1px solid #2898e8;
+  border-radius: 4px;
+  padding: 5px 10px;
+}
+
+button{
+  border: none;
+  background-color: #2898e8;
+  color: white;
+  border-radius: 4px;
+  padding: 5px;
+  margin-top: 5px;
+}
+
+#myForm{
+  width: 1000px;
+  align-items: center;
+}
